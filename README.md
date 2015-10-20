@@ -4,7 +4,7 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/big-ws/w
 
 User name | NIA |Repository|Travis-CI|Text to translate|Text translated|In addition|Score
 ----------|-----|----------|---------|-----------------|---------------|-----------|-----
-UNIZAR-30246-WebEngineering |30246 | [repo](https://github.com/UNIZAR-30246-WebEngineering/hello) | [![Build Status](https://travis-ci.org/UNIZAR-30246-WebEngineering/big-ws.svg?branch=master)](https://travis-ci.org/UNIZAR-30246-WebEngineering/big-ws) | This is a test of translation service | Esto es una prueba de servicio de traducción 
+UNIZAR-30246-WebEngineering |30246 | [repo](https://github.com/UNIZAR-30246-WebEngineering/big-ws) | [![Build Status](https://travis-ci.org/UNIZAR-30246-WebEngineering/big-ws.svg?branch=master)](https://travis-ci.org/UNIZAR-30246-WebEngineering/big-ws) | This is a test of translation service | Esto es una prueba de servicio de traducción 
 AlejandroDiesteCortes | 541892 
 Cristian Román |646564
 Javier Beltran Jorba | 532581 
