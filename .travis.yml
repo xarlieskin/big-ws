@@ -3,4 +3,8 @@ jdk:
 - oraclejdk8
 before_install:
 - openssl aes-256-cbc -K $encrypted_37c734d3f559_key -iv $encrypted_37c734d3f559_iv
-  -in src/main/resources/application.properties.enc -out src/main/resources/application.properties -d
+  -in src/main/resources/application.properties.enc -out src/main/resources/application.properties
+  -d
+env:
+  global:
+    secure: j6aOVt7Xg03aum/2eD/xqRDvIisdRuxMeu31E+8vNjJmXr3zHdF7ckG/1FNNgI8/HZdaLm8v6SOIGlf6B1ky3qZsOGBrld7j5NDQkaSw28KcZtxItHA9cOGIEmH3BM60JnWFH14IVh1IH2QLQptZeOM3F8pxDpogluoBsgXBsY2rbmYaYIfRgf5Pub+k02BVYh2ygOGTvltXqTX/6cG7iJnX0jX2HydOiDq+YB8GJORWOKr8+Q7CYORf3ZHVPvOZYG1JDTOw9Oy3QuRfUeA2CCMONFJQqQ0k5MZCdWDPhYcIstsmrc+hP8pd5o+Es3hBWw9mHrRBp+8Sbpfm+3/bGe8XggqP8APGY19CFKOHszRgtBOMhREQVoCgdzKKVUmVqxFfgQO9isMcJGuQpE+MmCU0jRTUjPihL421PWsY2weZq7wpWGP5rG8res9bgYw/BII1iHkk+oLbLqowBwVlcC2m+4cqpM6/YZfNm1ZbL6/qdzVADpOaAkDQ0rw9s6bPXxhgAFx/g7WjHpzK1jrJOrQWb1jUjn0f1Chqe90xO+OqqNK2W6MZ6dZ91wmM+x75Q/QAYpqoINKOd5Fd7cbZYCUtC8+jofwhLiWsQoanByN9G6hVC47mY+9/VmrZRK/y7ugfqi8mhSJK8Xq0esGsx3RHVm9SrzNNQD/MA/3vXF0=
