@@ -9,7 +9,7 @@ AlejandroDiesteCortes | 541892 | [repo](https://github.com/AlejandroDiesteCortes
 Cristian Román |646564
 Javier Beltran Jorba | 532581 
 Marcos Canales Mayo | 467716
-Jorge Cáncer Gil | 646122 
+Jorge Cáncer Gil | 646122 | [repo](https://github.com/jorcox/big-ws) | [![Build Status](https://travis-ci.org/jorcox/big-ws.svg?branch=master)](https://travis-ci.org/jorcox/big-ws) | Live mother Russia and long live the Bolshevik revolution. Stalin was a murderer. | Viva la madre Rusia y larga vida a la revolución Bolchevique. Stalin era un asesino.
 Iñigo Alonso Ruiz | 665959 
 Ismael Rodríguez Hernández | 587429 
 Jorge Martinez Lascorz | 571735
