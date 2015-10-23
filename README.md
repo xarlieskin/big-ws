@@ -5,7 +5,7 @@ Please, go to the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/big-ws/w
 User name | NIA |Repository|Travis-CI|Text to translate|Text translated|In addition|Score
 ----------|-----|----------|---------|-----------------|---------------|-----------|-----
 UNIZAR-30246-WebEngineering |30246 | [repo](https://github.com/UNIZAR-30246-WebEngineering/big-ws) | [![Build Status](https://travis-ci.org/UNIZAR-30246-WebEngineering/big-ws.svg?branch=master)](https://travis-ci.org/UNIZAR-30246-WebEngineering/big-ws) | This is a test of translation service | Esto es una prueba de servicio de traducción 
-AlejandroDiesteCortes | 541892 
+AlejandroDiesteCortes | 541892 | [repo](https://github.com/AlejandroDiesteCortes/big-ws) | [![Build Status](https://travis-ci.org/AlejandroDiesteCortes/big-ws.svg?branch=master)](https://travis-ci.org/AlejandroDiesteCortes/big-ws) | The computer was born to solve problems that were not there before | El ordenador nació para resolver problemas que antes no existían
 Cristian Román |646564
 Javier Beltran Jorba | 532581 
 Marcos Canales Mayo | 467716
