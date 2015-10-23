@@ -9,7 +9,7 @@ AlejandroDiesteCortes | 541892
 Cristian Román |646564
 Javier Beltran Jorba | 532581 
 Marcos Canales Mayo | 467716
-Jorge Cáncer Gil | 646122 
+Jorge Cáncer Gil | 646122 | [repo](https://github.com/jorcox/big-ws) | [![Build Status](https://travis-ci.org/jorcox/big-ws.svg?branch=master)](https://travis-ci.org/jorcox/big-ws) | This is a test of translation service | Esto es una prueba de servicio de traducción 
 Iñigo Alonso Ruiz | 665959 
 Ismael Rodríguez Hernández | 587429 
 Jorge Martinez Lascorz | 571735
