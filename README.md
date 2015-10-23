@@ -10,7 +10,7 @@ Cristian Román |646564
 Javier Beltran Jorba | 532581 | [repo](https://github.com/MrJavo94/big-ws) | [![Build Status] (https://travis-ci.org/MrJavo94/big-ws.svg?branch=master)](https://travis-ci.org/MrJavo94/big-ws) | Great power comes with great responsibility | Un gran poder conlleva una gran responsabilidad
 Marcos Canales Mayo | 467716
 Jorge Cáncer Gil | 646122 | [repo](https://github.com/jorcox/big-ws) | [![Build Status](https://travis-ci.org/jorcox/big-ws.svg?branch=master)](https://travis-ci.org/jorcox/big-ws) | Live mother Russia and long live the Bolshevik revolution. Stalin was a murderer. | Viva la madre Rusia y larga vida a la revolución Bolchevique. Stalin era un asesino.
-Iñigo Alonso Ruiz | 665959 
+Iñigo Alonso Ruiz | 665959 | [repo](https://github.com/Shathe/big-ws) | [![Build Status](https://travis-ci.org/Shathe/big-ws.svg?branch=master)](https://travis-ci.org/Shathe/big-ws) | I'm just spending time on this travis/ruby thing | Estoy simplemente pasar el tiempo en esta travis/ruby cosa
 Ismael Rodríguez Hernández | 587429 
 Jorge Martinez Lascorz | 571735
 David Nicuesa Aranda | 653224 
