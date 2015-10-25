@@ -21,7 +21,7 @@ Oscar Clemente Pedrico | 530162
 Iñigo Gascón Royo | 685215 
 Adrian Susinos Moreno | 650220 
 Santiago Gil Begué | 683482 
-Carlos Escuín Blasco | 545003 | https://github.com/xarlieskin/big-ws | [![Build Status](https://travis-ci.org/xarlieskin/big-ws.svg?branch=master)](https://travis-ci.org/xarlieskin/big-ws) | Have the courage to follow your heart and intuition | Tener el coraje de seguir su corazón e intuición
+Carlos Escuín Blasco | 545003 | [repo](https://github.com/xarlieskin/big-ws) | [![Build Status](https://travis-ci.org/xarlieskin/big-ws.svg?branch=master)](https://travis-ci.org/xarlieskin/big-ws) | Have the courage to follow your heart and intuition | Tener el coraje de seguir su corazón e intuición
 Alberto Revel | 628704 
 Raul Piracés Alastuey | 490790 | [repo](https://github.com/piraces/big-ws) | [![Build Status] (https://travis-ci.org/piraces/big-ws.svg?branch=master)](https://travis-ci.org/piraces/big-ws) | The greatest glory in living lies not in never falling, but in rising every time we fall. | La mayor gloria en la vida no consiste en nunca caer, sino en levantarnos cada vez que caemos.
 Adrian Moreno Jimeno | 631537 
